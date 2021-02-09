@@ -1,0 +1,29 @@
+* {
+	font-family:BPG Nino Mtavruli;
+	font-weight: bold;
+
+}
+header {
+ margin-top: 30px;
+ margin-left: 30px;
+}
+ul {
+	list-style-type: none;
+	overflow: hidden;
+}
+
+ul li a {
+	display: block;
+	color: #3D58A6;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+.active {
+	color:#4AC20E;
+}
+
+ul li a:hover {
+	transition: 0.5s;
+	color: #4AC20E;
+}

@@ -4,15 +4,21 @@
 
 }
 header {
- margin-top: 30px;
- margin-left: 30px;
+	margin:0;
+}
+nav {
+	margin-top: 30px;
+	margin-left:20px;
 }
 ul {
+	margin: 0;
+	padding:0;
 	list-style-type: none;
 	overflow: hidden;
 }
 
 ul li a {
+	margin:10px;
 	display: block;
 	color: #3D58A6;
 	font-size: 22px;
@@ -26,4 +32,18 @@ ul li a {
 ul li a:hover {
 	transition: 0.5s;
 	color: #4AC20E;
+}
+
+.banner {
+	margin-left:30px;
+	margin-right:40px;
+	border: 5px solid #4AC20E;
+	border-radius:10px;
+	padding-left:20px;
+}
+
+h1 {
+	margin: 10px;
+	color:#3D58A6;
+	font-size: 30px;
 }

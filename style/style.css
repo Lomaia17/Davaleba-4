@@ -74,7 +74,7 @@ h1 {
 .text2:hover{
 	transition: 0.5s;
 	color:#4AC20E;
-	border-bottom:10px solid #4AC20E;
+	border-bottom:5px solid #4AC20E;
 }
 
 footer {

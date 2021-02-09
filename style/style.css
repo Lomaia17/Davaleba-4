@@ -47,3 +47,32 @@ h1 {
 	color:#3D58A6;
 	font-size: 30px;
 }
+
+.images {
+	margin-top: 10px;
+	margin-left: 30px;
+}
+
+.img1 {
+	margin-right:25px;
+}
+
+.text {
+	font-size: 22px;
+	color:#3D58A6;
+	margin-left: 30px;
+	margin-top: 70px;
+}
+
+.text2 {
+	text-decoration: none;
+	display: inline-block;
+	border-bottom:10px solid #3D58A6;
+	color:#3D58A6;
+}
+
+.text2:hover{
+	transition: 0.5s;
+	color:#4AC20E;
+	border-bottom:10px solid #4AC20E;
+}
